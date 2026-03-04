@@ -1,0 +1,12 @@
+# Virtual environment
+.venv/
+
+# Dataset (too large for GitHub - download from Kaggle)
+dataset/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
