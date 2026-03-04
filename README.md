@@ -136,4 +136,6 @@ Edit these values in `svm_cats_dogs.py`:
 
 Made with ❤️ by [Bhagyashree Mali](https://github.com/BhagyashreeMali)
 
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="Cat typing">
+
 </div>
