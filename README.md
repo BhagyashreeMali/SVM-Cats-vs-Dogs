@@ -11,7 +11,7 @@
 
 > _A binary image classifier that distinguishes cats from dogs using Support Vector Machine (SVM) with a linear kernel._
 
-<br>
+<br> 
 
 <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="180" alt="Cat">
 &nbsp;&nbsp;&nbsp;&nbsp;
